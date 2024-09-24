@@ -2,7 +2,7 @@
 - 👀 I’m interested in bootstrap, responsive and UI/UX design
 - 🌱 I’m currently learning javascript and git
 - 💞️ I’m looking to collaborate on fun data analysis projects
-- 📫 How to reach me: @ulioma on LinkedIn
+- 📫 How to reach me: uliomacho@gmail.com
 - ⚡ Fun fact: I love turtles🐢
 
 <!---
