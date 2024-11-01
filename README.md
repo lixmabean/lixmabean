@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lixmabean 
-- 👀 I’m interested in bootstrap, responsive and UI/UX design
-- 🌱 I’m currently learning javascript and git
-- 💞️ I’m looking to collaborate on fun data analysis projects
-- 📫 How to reach me: uliomacho@gmail.com
-- ⚡ Fun fact: I love turtles🐢
+- 👀 I’m interested in data analysis and UI/UX design
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on fun informative projects
+- 📫 How to reach me: uliomacho@outlook.com
+- ⚡ Fun fact: I can't live without music 🎧
 
 <!---
 lixmabean/lixmabean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
