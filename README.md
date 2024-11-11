@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lixmabean 
 - 👀 I’m interested in data analysis and UI/UX design
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently improving my graphic design skills
 - 💞️ I’m looking to collaborate on fun informative projects
 - 📫 How to reach me: uliomacho@outlook.com
 - ⚡ Fun fact: I can't live without music 🎧
